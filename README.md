@@ -1,6 +1,6 @@
 # 2048 Game for Nook
 
-A sleek, native 2048 puzzle game built for [Nook]((https://nooknotch.xyz/)), the floating notch panel for Windows.
+A sleek, native 2048 puzzle game built for [Nook](https://nooknotch.xyz/), the floating notch panel for Windows.
 
 ## Layout
 
