@@ -1,0 +1,10 @@
+id = "2048"
+name = "2048"
+icon = "grid-four"
+size = "wide"
+run = ["python", "main.py"]
+page_size = [600, 280]
+hotkey = "ctrl+alt+KeyG"
+description = "Classic 2048 puzzle game for your notch."
+author = "Shubhajeet"
+version = "1.2.0"
